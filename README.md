@@ -1,3 +1,4 @@
+![Helpers-for-Humans_Logo](Helpers-for-Humans.png)
 # Global Helpers
 
 Reusable Bash helper blocks collected from larger tool scripts.
